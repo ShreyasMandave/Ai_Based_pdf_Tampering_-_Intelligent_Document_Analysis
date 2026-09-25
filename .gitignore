@@ -1,0 +1,14 @@
+# Maven
+backend/target/
+
+# Environment / secrets
+backend/src/main/resources/application-local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
